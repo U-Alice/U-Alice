@@ -1,4 +1,6 @@
  Helloo 👋
+ <body color="red">
+
  <img align="right" alt="Coding" width="50%" height ="20%" src="https://media2.giphy.com/media/26DoiqmYcxgFICb3G/200w.webp?cid=ecf05e47n3vr3i2lz3bz5lxf9wr8ppb314swg7blunyd0pss&rid=200w.webp&ct=g">
 <h3 align="center">A passionate and enthusiast software developer from Rwanda</h3>
 
@@ -29,3 +31,4 @@
 <p><a href="https://www.buymeacoffee.com/U-Alice"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="U-Alice" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u-alice&" alt="u-alice" /></p>
+</body>
