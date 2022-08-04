@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-alice&label=Profile%20views&color=0e75b6&style=flat" alt="u-alice" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u-alice" alt="u-alice" /></a> </p>
+
+
 -    Helloo 👋
+ 
 - 🔭 I’m currently working on [Novelia App](https://eread-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **Nest js and Angular**
@@ -12,6 +14,9 @@
 - 📫 How to reach me **umugwanezaalice22@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/WPyi0u0GG](https://resume.io/r/WPyi0u0GG)
+ 
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u-alice" alt="u-alice" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
