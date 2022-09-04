@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on [Novelia App](https://eread-frontend.vercel.app/)
 
-- 🌱 I’m currently learning **Nest js and Angular**
+- 🌱 I’m currently learning **Nest js**
 
 - 📫 How to reach me **umugwanezaalice22@gmail.com**
 
