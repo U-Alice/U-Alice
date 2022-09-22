@@ -2,7 +2,7 @@
  <body color="red">
 
 <h1 align="center">
-  <em>Helloo</em> <img src="https://github.com/piyush168713/piyush168713/raw/main/svg/Hi.gif" height="37px" width="30px">
+  <em>Hello</em> <img src="https://github.com/piyush168713/piyush168713/raw/main/svg/Hi.gif" height="37px" width="30px">
 </h1>
 
  
