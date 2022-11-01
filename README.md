@@ -6,9 +6,9 @@
 </h1>
 
  
-- 🔭 I’m currently working on [Novelia App](https://eread-frontend.vercel.app/)
+- 🔭 I’m currently working on Ament
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java and spring boot**
 
 - 📫 How to reach me **umugwanezaalice22@gmail.com**
 
